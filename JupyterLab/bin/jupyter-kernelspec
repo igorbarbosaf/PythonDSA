@@ -1,4 +1,4 @@
-#!/home/codemaster/workspace/PythonDSA/JupyterLab/bin/python3
+#!/workspace/Python_DSA/JupyterLab/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
